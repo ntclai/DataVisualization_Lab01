@@ -2,7 +2,7 @@
 
 ### LAB-01: TRỰC QUAN HÓA DỮ LIỆU VỚI PYTHON
 
-#### Group 22
+#### Thành viên | Group 22
 
 20120128 - Nguyễn Thị Cẩm Lai (Nhóm trưởng)
 
